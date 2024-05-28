@@ -1,6 +1,3 @@
-WELCOME
-
-```markdown
 # Taja Resto - Website Restoran dengan Bootstrap
 
 Selamat datang di repositori Taja Resto, sebuah situs web elegan untuk restoran yang dibangun menggunakan Bootstrap. Website ini dirancang untuk menampilkan berbagai menu lezat yang ditawarkan oleh Taja Resto dengan tata letak yang menarik dan responsif.
@@ -16,6 +13,7 @@ Selamat datang di repositori Taja Resto, sebuah situs web elegan untuk restoran 
 
 Berikut adalah struktur proyek dari website Taja Resto:
 
+```
 TajaResto/
 │
 ├── css/
