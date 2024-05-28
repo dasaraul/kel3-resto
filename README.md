@@ -41,7 +41,7 @@ TajaResto/
 
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/username/TajaResto.git
+   git clone https://github.com/username/kel3-resto.git
    ```
 2. **Buka di Browser**
    Buka file `index.html` menggunakan browser favorit Anda untuk melihat tampilan website.
