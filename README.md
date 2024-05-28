@@ -16,6 +16,7 @@ Selamat datang di repositori Taja Resto, sebuah situs web elegan untuk restoran 
 
 Berikut adalah struktur proyek dari website Taja Resto:
 
+```
 TajaResto/
 │
 ├── css/
@@ -36,8 +37,7 @@ TajaResto/
 │
 ├── index.html
 │
-└── README.md
-
+└── README.md```
 
 ## Cara Menggunakan
 
