@@ -1,3 +1,5 @@
+WELCOME
+
 ```markdown
 # Taja Resto - Website Restoran dengan Bootstrap
 
@@ -36,6 +38,7 @@ TajaResto/
 ├── index.html
 │
 └── README.md```
+
 
 ## Cara Menggunakan
 
