@@ -1,5 +1,3 @@
-Berikut adalah kode lengkap untuk README.md tanpa terputus:
-
 ```markdown
 # Taja Resto - Website Restoran dengan Bootstrap
 
