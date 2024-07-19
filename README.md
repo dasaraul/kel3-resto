@@ -1,6 +1,6 @@
-# Taja Resto - Website Restoran dengan Bootstrap
+# Sari Selera - Website Restoran dengan Bootstrap
 
-Selamat datang di repositori Taja Resto, sebuah situs web elegan untuk restoran yang dibangun menggunakan Bootstrap. Website ini dirancang untuk menampilkan berbagai menu lezat yang ditawarkan oleh Taja Resto dengan tata letak yang menarik dan responsif.
+Selamat datang di repositori Sari Selera, sebuah situs web elegan untuk restoran yang dibangun menggunakan Bootstrap. Website ini dirancang untuk menampilkan berbagai menu lezat yang ditawarkan oleh Sari Selera dengan tata letak yang menarik dan responsif.
 
 ## Fitur Utama
 
@@ -11,10 +11,10 @@ Selamat datang di repositori Taja Resto, sebuah situs web elegan untuk restoran 
 
 ## Struktur Proyek
 
-Berikut adalah struktur proyek dari website Taja Resto:
+Berikut adalah struktur proyek dari website Sari Selera:
 
 ```
-TajaResto/
+Sari Selera RestoResto/
 │
 ├── css/
 │   └── bootstrap.min.css
